@@ -19,7 +19,7 @@ Brand New CSS for my site
 and...so on!  
 More→ https://yokonoha.github.io/devmonitor (Language: Japanese only Please use translator services to read)  
 
-## Thanks for visiting! 我喜欢尝试新事物。 いろいろやってみます!宜しくお願い致します!  
+## Thanks for visiting! 我喜欢尝试新事物。 何卒宜しくお願い致します!  
 <!---
 yokonoha/yokonoha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
