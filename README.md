@@ -9,8 +9,6 @@ I'm going to make something in my spare time.
 
 您好~。  
 我在空闲时间做点什么。  
-![https://yokonoha.github.io/yokoha-st](yokohapic1.png)  
-![https://yokonoha.github.io/](yokohapic2.png)  
 
 ## I'm now working on....  
 Caffeine Apps Integrated site project  
