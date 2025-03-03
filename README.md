@@ -6,11 +6,12 @@
 I'm going to make something in my spare time.  
 我在空闲时间做点什么。  
 
-SNS (EN & JP): https://x.com/YokochaYokoha  
+## Contacts (Software & Apps projects' links only)  
+SNS (EN & JP /Formal): https://x.com/YokochaYokoha  
 SNS (Japanese only): https://x.com/yokocha_yokoha  
 Website(Japanese only): https://yokonoha.github.io/yokoha-st/  
 Homepage(Japanese only): https://yokonoha.github.io/  
-
+Mail Address(Not recommended to use): yokochayokoha@duck.com  
 ## Progress  
 https://yokonoha.github.io/devmonitor (Japanese only)  
 
