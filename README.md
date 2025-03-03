@@ -17,7 +17,7 @@ Mail Address(Not recommended to use): yokochayokoha@duck.com
 <!--
 Hidden message by Y.Yokoha  
 Illustration project has been separeated. This project is supposed to merge this mainstream project in 2027.  
-SNS: https://x.com/ryokuyo_aoha  
+SNS: https://x.com/ryokuyou_aoha  
 (たまに覗いてみてくださいね! 我在学习绘画!)  
 -->
 ## Progress  
