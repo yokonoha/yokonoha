@@ -1,6 +1,7 @@
 # 横茶横葉のリポジトリページ  
 ## Y.Yokoha's repositories  
 
+ご覧いただきありがとうございます!!/Thanks for visiting!!/感谢您的访问!!  
 
 暇な時間に何か作ってます。  
 I'm going to make something in my spare time.  
