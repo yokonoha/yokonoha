@@ -4,7 +4,7 @@
 ご覧いただきありがとうございます!!/Thanks for visiting!!/感谢您的访问!!  
 
 暇な時間に何か作ってます。  
-I'm going to make something in my spare time.  
+I'm making something in my spare time.  
 我在空闲时间做点什么。  
 
 Developing Web service: https://caffeineapps.pages.dev/  
