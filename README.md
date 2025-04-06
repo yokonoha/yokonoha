@@ -15,7 +15,6 @@ SNS (EN & JP /Formal expression): https://x.com/YokochaYokoha
 SNS (Japanese only): https://x.com/yokocha_yokoha  
 Website(Japanese only): https://yokonoha.github.io/yokoha-st/  
 Homepage(Japanese only): https://yokonoha.github.io/  
-Mail Address(Not recommended to use): yokochayokoha@duck.com  
 <!--
 Hidden message by Y.Yokoha  
 Illustration project has been separated. This project is supposed to merge this mainstream project in 2027.  
