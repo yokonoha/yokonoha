@@ -8,8 +8,6 @@ I'm making something in my spare time.
 
 Developing Web service: https://caffeineapps.pages.dev/  
   
-## Contacts (Software & Apps projects' links only)  
-
 ## Progress  
 The Development Monitor service will be discontinued due to my busy personal schedule.  
 
