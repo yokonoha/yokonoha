@@ -6,8 +6,18 @@
 I'm making something in my spare time.  
 我在空闲时间做点什么。  
 
-Developing Web service: https://caffeineapps.pages.dev/  
-  
+## Who are you?  
+「筋金入りのアンドロイド好き」 なだけの普通の人です。  
+プログラミングは好きではありませんが、スマホを最大限愛すためにやってます。  
+趣味は中古スマホ漁りで、好きな漁場は東京秋葉原です。  
+
+I'm just a regular Japanese person who is an "enthusiastic smartphones fan."   
+I don't like programming, but I do it to love smartphones as much as possible by making apps and Web apps.   
+My hobby is hunting for used smartphones, and my favorite "smartphone fishing spot" is Akihabara in Tokyo.   
+
+## Works
+Developing Web service: https://caffeineapps.pages.dev/   
+ 
 ## Progress  
 The Development Monitor service will be discontinued due to my busy personal schedule.  
 
