@@ -22,8 +22,8 @@ Developing Web service: https://caffeineapps.pages.dev/
 Coffee2 (Tentative app name)  
 
 ## Completely unrelated parallel projects   
-++ illustration  
-++ 3D Modeling  
+- illustration  
+- 3D Modeling  
 こちらも並行してやってます! ですが何のためにやってるのか自分でも分かりません！  
 I am also doing these things in parallel, but I am not sure why I am doing them.  
 <!---
