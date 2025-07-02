@@ -16,10 +16,14 @@ I'm just a regular Japanese person who is an "enthusiastic smartphones fan."
 I don't like programming, but I do it to love smartphones as much as possible by making apps and Web apps.   
 My hobby is hunting for used smartphones, and my favorite "smartphone fishing spot" is Akihabara in Tokyo!   
 
-## Works
+## Working Projects
 Developing Web service: https://caffeineapps.pages.dev/   
 
 Coffee2 (Tentative app name)  
+
+## About the status of my sites  
+Yokonoha1: Preparing  
+Yokonoha2: Preparing  
 
 ## Completely unrelated parallel projects   
 - illustration  
