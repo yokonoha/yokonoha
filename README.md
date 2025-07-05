@@ -22,7 +22,7 @@ Developing Web service: https://caffeineapps.pages.dev/
 Coffee2 (Tentative app name)  
 
 ## About the status of my sites  
-Yokonoha1/ https://yokonoha.github.io : Preparing  
+Yokonoha1/ https://yokonoha.github.io : Active  
 Yokonoha2/ https://yokonoha.pages.dev : Preparing  
 
 ## Completely unrelated parallel projects   
