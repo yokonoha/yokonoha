@@ -28,8 +28,6 @@ Yokonoha2/ https://yokonoha.pages.dev : Preparing
 ## Completely unrelated parallel projects   
 - illustration  
 - 3D Modeling  
-こちらも並行してやってます! ですが何のためにやってるのか自分でも分かりません！  
-I am also doing these things in parallel, but I am not sure why I am doing them.  
 <!---
 yokonoha/yokonoha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
