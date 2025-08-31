@@ -1,6 +1,5 @@
 YokochaYokoha / 横茶横葉 / 横茶横叶 / Y.Yokoha / Yokonoha  
 ## Y.Yokoha's repositories  
-![welcomecard](./welcomecard.png)
 ご覧いただきありがとうございます!/Thanks for visiting!  
 
 暇な時間に何か作ってます。  
