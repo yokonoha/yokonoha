@@ -6,6 +6,9 @@ YokochaYokoha / 横茶横葉 / 横茶横叶 / Y.Yokoha / Yokonoha
 I'm making something in my spare time.  
 我在空闲时间做点什么。  
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yokonoha&theme=nord_dark)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yokonoha&theme=default)  
+
 ## Who are you?  
 「筋金入りのアンドロイド好き」 な普通の人です。  
 プログラミングは好きではありませんが、スマホを最大限愛すためにやってます。  
