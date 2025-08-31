@@ -8,7 +8,7 @@ I'm making something in my spare time.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yokonoha&theme=nord_dark)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yokonoha&theme=default)  
-GitHub profile summary cards were generated using this service=> [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards). (Thank you!)  
+These cards were generated using this service=> [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards). (Thank you!)  
 
 ## Who are you?  
 「筋金入りのアンドロイド好き」 な普通の人です。  
