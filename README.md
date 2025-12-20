@@ -19,7 +19,6 @@ I'm just a regular Japanese person who is an "enthusiastic smartphones fan."
 I make apps to love smartphones as much as possible by making apps and Web apps.   
 My hobby is hunting for used smartphones, and my favorite "smartphone fishing spot" is Akihabara in Tokyo!   
 
-非常喜欢智能手机!我爱东京秋叶原。(我正在学汉语... .....日语很难。我喜欢英语和汉语。)
 
 ## About the status of my sites (Japanese Sites)  
 Yokonoha1/ https://yokonoha.github.io : Active  
