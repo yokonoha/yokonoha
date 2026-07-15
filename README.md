@@ -6,7 +6,7 @@ I'm making something in my spare time.
 我在空闲时间做点什么。  
 
 ## Active Projects  
-- ReCcaffeine
+- ReCaffeine
 - CafeLite
 - 代読くん
 - VoiceConTool
