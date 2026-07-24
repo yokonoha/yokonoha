@@ -12,7 +12,7 @@ I'm making something in my spare time.
 - VoiceConTool
 - ReCaf 拡張機能
 and... so on.
-
+作りためていたものを放出中。
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yokonoha&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yokonoha&theme=nord_dark)  
